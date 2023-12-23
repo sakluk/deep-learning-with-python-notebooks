@@ -1,6 +1,6 @@
-# Edited version of companion Jupyter notebooks for the book "Deep Learning with Python"
+# Adapted version of companion Jupyter notebooks for the book "Deep Learning with Python"
 
-This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python, 2nd Edition (Manning Publications)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff). Metropolia University of Applied Sciences has access to read this book through library services, see: [Deep Learning with Python, second edition by Francois Chollet, 2021](https://metropolia.finna.fi/Record/nelli15.5100000000116545?sid=3569597255&lng=en-gb).
+This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python, 2nd Edition (Manning Publications)](https://metropolia.finna.fi/Record/nelli15.5100000000116545?sid=3569597255&lng=en-gb). Metropolia University of Applied Sciences has access to read this book through library services.
 
 The notebooks are adapted for the course [Neural Networks for Machine Learning Applications](https://opinto-opas.metropolia.fi/offering/12/48343/62534?lang=en) taught at [Metropolia University of Applied Sciences, Helsinki, Finland](https://www.metropolia.fi/en). The original notebooks are edited to suit better for the course structure and syllabus. (For readability, these notebooks only contain runnable code blocks and section titles, and omit everything else in the book: text paragraphs, figures, and pseudocode.)
 
